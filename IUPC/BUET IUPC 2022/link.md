@@ -1,3 +1,3 @@
-[Contest link](https://toph.co/c/sec-inter-university-junior-2022)
+[Contest link]([https://toph.co/c/sec-inter-university-junior-2022](https://toph.co/c/buet-inter-university-2022))
 <br>
-[Editorial](https://drive.google.com/file/d/1aJT-Y4OTsIbArlcby1DgPBpmekYb2-Q9/view?fbclid=IwAR1b_siXysajBWD1D-u9YQbjYR7GeBIqbJ3Yz6bwpP41LHf4Lga6TXjK0i0)
+[Editorial](https://drive.google.com/file/d/1Urqsv7_KbEtJaJ_xBZzXrdggYocELYPa/view?fbclid=IwAR3KM4ncPmvWpVINYllYisoJuSjAK2YScY1kVfQJgzYShIE7TZOF9atCQlk)
